@@ -155,7 +155,7 @@ These results are descriptive. They do not establish operational performance, fl
 
 ## Founder
 
-Vanthion Aerospace is founded by **[Aaditya Thokal](https://github.com/aadityat23)**, a student founder and independent researcher building the company while pursuing engineering and data science studies in India.
+Vanthion Aerospace is founded by **[Aaditya Thokal](https://github.com/aadityat23)**, an independent researcher building the company while pursuing engineering and data science studies in India.
 
 ---
 
